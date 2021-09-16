@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+ <Table xmlns="http://www.w3.org/TR/html4/" >
+      
+   <Row>
+    <Cell><Data >Código</Data></Cell>
+    <Cell><Data >Deporte</Data></Cell>
+    <Cell><Data >Producto</Data></Cell>
+    <Cell><Data >Tipo</Data></Cell>
+    <Cell><Data >Género</Data></Cell>
+    <Cell><Data >Edad</Data></Cell>
+    <Cell><Data >Marca</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data >1</Data></Cell>
+    <Cell><Data >Futbol &amp; Similares</Data></Cell>
+    <Cell><Data >Zapatilla Predator</Data></Cell>
+    <Cell><Data >Calzado</Data></Cell>
+    <Cell><Data >Hombre</Data></Cell>
+    <Cell><Data >Adulto</Data></Cell>
+    <Cell><Data >Adidas</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data >2</Data></Cell>
+    <Cell><Data >Atletismo &amp; Similares</Data></Cell>
+    <Cell><Data >Sudadera</Data></Cell>
+    <Cell><Data >Ropa</Data></Cell>
+    <Cell><Data >Mujer</Data></Cell>
+    <Cell><Data >Adulto</Data></Cell>
+    <Cell><Data >Nike</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data >3</Data></Cell>
+    <Cell><Data >Atletismo &amp; Similares</Data></Cell>
+    <Cell><Data >Cachucha</Data></Cell>
+    <Cell><Data >Accesorios</Data></Cell>
+    <Cell><Data >Hombre</Data></Cell>
+    <Cell><Data >Niño</Data></Cell>
+    <Cell><Data >diadora</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data >4</Data></Cell>
+    <Cell><Data >Ciclismo &amp; Similares</Data></Cell>
+    <Cell><Data >Bicicleta</Data></Cell>
+    <Cell><Data >Maquinaria</Data></Cell>
+    <Cell><Data >Hombre</Data></Cell>
+    <Cell><Data >Adulto</Data></Cell>
+    <Cell><Data >Shimano</Data></Cell>
+   </Row>
+  </Table>
